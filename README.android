@@ -1,15 +1,3 @@
-This project contains only the cpp/src files from upstream.  To update:
-git merge aosp/upstream-master
-If upstream has changes outside the cpp/src directory (likely), it will get
-conflicts on the modified files.  To drop the changes to the unmerged
-directories:
-git rm -rf data
-git rm -rf java
-git rm -rf cpp/data
-git rm -rf cpp/ext
-git rm -rf cpp/tools
-git commit
-
-
-# Local changes
-Fixed uninitialized variable. See bug 116114182 for details.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a6c69f7a2b4816a042bee3f4ab01586f0c020116a2ef87cdf4fc0b742035622
+size 444

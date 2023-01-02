@@ -1,6 +1,3 @@
-# sfntly
-
-This project is not developed any further. 
-Only Bug fixes will be merged, but new features won't.
-
-An actively maintained fork with new features is available at <https://github.com/rillig/sfntly>
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d0e9b4f7ec037d87d044599059442c5b70f94501ffa008b84499027c7029bdb
+size 207
